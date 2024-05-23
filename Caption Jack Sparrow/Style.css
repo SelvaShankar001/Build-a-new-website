@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    position: fixed;
+    float: left;
+}
+
+.con:hover{
+    color:brown;
+}
+
+nav{
+
+    border: 2px black;
+    padding: 50px;
+    margin: 10px;
+}
+
+.con{
+    border: 2px solid black;
+    margin: 10px;
+    padding: 10px;
+    /* padding-left: 20px; */
+    background-color: antiquewhite;
+    text-decoration:none;
+}
+
+.Ab{
+    float: left;
+    border: 2px solid aquamarine;
+    height: 740px;
+    width: 350px;
+}
+
+#sparrow{
+    position: relative;
+}
+
+.con1:hover{
+    font-size:x-large;
+    text-decoration: none;
+    color:orange;
+}
+
+.W{
+    padding: 10px;
+    font-size: large;
+    background-color:cyan;
+}
+
+.con1{
+    text-decoration: none;
+}
+
+h2{
+    color:red;
+}
+
